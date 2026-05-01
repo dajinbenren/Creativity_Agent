@@ -1,0 +1,186 @@
+{
+  "product_info": {
+    "id": "PROD001",
+    "name": "智能保温杯",
+    "brand": "小米有品",
+    "brand_desc": "专注智能家居与品质生活",
+    "price": "129",
+    "original_price": "199",
+    "discount": "70",
+    "key_feature": "温度显示+12小时保温",
+    "certification": "国家食品级认证",
+    "warranty": "1年质保",
+    "category": "家居生活",
+    "tags": [
+      "智能",
+      "保温",
+      "便携",
+      "高颜值"
+    ]
+  },
+  "user_personas": {
+    "douyin": "UserPersona(channel='douyin', age_range='25-34', gender_ratio={'female': 0.65, 'male': 0.35}, income_level='中低收入', top_interests=['性价比', '颜值', '实用'], purchase_drivers=['口碑推荐', '使用体验好', '品质可靠', '颜值高'], pain_points=['价格偏高', '物流/响应慢', '操作复杂'], preferred_content_style='情感共鸣型', avg_order_value=129.77, repurchase_rate=0.46, platform_behavior={'avg_review_length': 19.1, 'image_review_rate': 0.4, 'peak_shopping_hour': 19, 'browsing_depth': '浅'})",
+    "taobao": "UserPersona(channel='taobao', age_range='35-44', gender_ratio={'female': 0.61, 'male': 0.39}, income_level='中等收入', top_interests=['性价比', '实用', '颜值'], purchase_drivers=['口碑推荐', '使用体验好', '复购意愿强', '品质可靠'], pain_points=['物流/响应慢', '操作复杂', '尺寸/容量偏小'], preferred_content_style='情感共鸣型', avg_order_value=293.39, repurchase_rate=0.37, platform_behavior={'avg_review_length': 18.8, 'image_review_rate': 0.46, 'peak_shopping_hour': 19, 'browsing_depth': '深'})",
+    "pinduoduo": "UserPersona(channel='pinduoduo', age_range='25-34', gender_ratio={'female': 0.53, 'male': 0.47}, income_level='中低收入', top_interests=['性价比', '实用', '颜值'], purchase_drivers=['口碑推荐', '使用体验好', '复购意愿强', '颜值高'], pain_points=['价格偏高', '物流/响应慢', '尺寸/容量偏小'], preferred_content_style='情感共鸣型', avg_order_value=86.43, repurchase_rate=0.33, platform_behavior={'avg_review_length': 19.1, 'image_review_rate': 0.4, 'peak_shopping_hour': 19, 'browsing_depth': '深'})"
+  },
+  "creatives": [
+    {
+      "version_id": "douyin_6ada0c",
+      "platform": "douyin",
+      "title": "闭眼冲！智能保温杯温度显示+12小时保温，性价比天花板！",
+      "main_selling_points": [
+        "🔥 温度显示+12小时保温，性价比党的福音",
+        "✨ 3秒温度显示+12小时保温，亲测有效",
+        "💰 不到一杯奶茶钱，口碑推荐"
+      ],
+      "detail_page_copy": "【开篇种草】\n性价比的姐妹们看过来！今天给大家温度显示+12小时保温这款智能保温杯！\n\n【痛点共鸣】\n你是不是也遇到过：价格偏高、物流/响应慢？\n\n【解决方案】\n智能保温杯帮你一站式解决！\n✅ 温度显示+12小时保温\n✅ 口碑推荐、使用体验好\n✅ 仅需129\n\n【行动引导】\n左下角小黄车，限时优惠，赶紧冲！",
+      "image_copy": [
+        "封面：性价比必入！智能保温杯",
+        "卖点图1：3秒温度显示+12小时保温效果对比",
+        "卖点图2：129不到奶茶钱",
+        "转化图：左下角下单→今日发货"
+      ],
+      "style_tags": [
+        "情绪驱动+场景化",
+        "热情、网感、口语化",
+        "视觉冲击+即时转化"
+      ]
+    },
+    {
+      "version_id": "taobao_827da0",
+      "platform": "taobao",
+      "title": "【官方正品】智能保温杯 温度显示+12小时保温 性价比 实用 颜值 限时优惠129",
+      "main_selling_points": [
+        "【品质保障】温度显示+12小时保温，小米有品官方正品",
+        "【用户口碑】性价比认可度98%，好评如潮",
+        "【专业认证】通过国家食品级认证，安全可靠",
+        "【售后无忧】7天无理由退换，1年质保",
+        "【场景适配】实用使用，满足你的需求"
+      ],
+      "detail_page_copy": "【品牌介绍】\n小米有品——专注智能家居与品质生活\n\n【产品详情】\n产品名称：智能保温杯\n核心功能：温度显示+12小时保温\n适用场景：性价比、实用、颜值\n\n【核心优势】\n1. 温度显示+12小时保温\n2. 口碑推荐\n3. 国家食品级认证\n\n【用户评价】\n好评率98%，性价比、实用用户强烈推荐\n\n【售后保障】\n7天无理由退换 | 正品保障 | 全国联保",
+      "image_copy": [
+        "主图：智能保温杯 官方正品",
+        "卖点图1：温度显示+12小时保温技术解析",
+        "卖点图2：性价比 + 实用 + 颜值",
+        "卖点图3：权威认证展示",
+        "转化图：已售10万+ 好评率98%"
+      ],
+      "style_tags": [
+        "关键词覆盖+卖点突出",
+        "专业、可信、精致",
+        "详情全面+决策辅助"
+      ]
+    },
+    {
+      "version_id": "pinduoduo_b016e1",
+      "platform": "pinduoduo",
+      "title": "爆款直降！智能保温杯 仅需129！温度显示+12小时保温 拼团更划算",
+      "main_selling_points": [
+        "🔴 惊爆价129，比淘宝便宜30%",
+        "🔴 万人拼团，口碑推荐保证",
+        "🔴 今天下单明天到，不满意包退"
+      ],
+      "detail_page_copy": "💰 超值推荐 | 智能保温杯\n\n原价：¥199\n拼团价：¥129\n立省：¥70\n\n🔥 为什么选择我们？\n→ 温度显示+12小时保温\n→ 口碑推荐\n→ 万人已拼，好评如潮\n\n⏰ 限时特惠，错过再等一年！\n📦 今天下单，明天到家\n🔄 不满意？包退！",
+      "image_copy": [
+        "主图：¥129 | 万人拼团",
+        "卖点图1：比淘宝便宜30%",
+        "卖点图2：温度显示+12小时保温 品质保证",
+        "转化图：今天下单 明天到家"
+      ],
+      "style_tags": [
+        "价格优势+紧迫感",
+        "直接、实惠、紧迫",
+        "性价比+社交裂变"
+      ]
+    }
+  ],
+  "predictions": [
+    {
+      "version_id": "douyin_6ada0c",
+      "predicted_ctr": 0.1363,
+      "predicted_cvr": 0.0522,
+      "confidence_score": 0.95,
+      "key_factors": [
+        "高复购率用户群",
+        "情感化文案更易转化",
+        "卖点丰富度佳",
+        "性价比敏感型用户"
+      ],
+      "risk_notes": [
+        "无明显风险"
+      ]
+    },
+    {
+      "version_id": "taobao_827da0",
+      "predicted_ctr": 0.1162,
+      "predicted_cvr": 0.0596,
+      "confidence_score": 0.95,
+      "key_factors": [
+        "高复购率用户群",
+        "情感化文案更易转化",
+        "卖点丰富度佳",
+        "性价比敏感型用户"
+      ],
+      "risk_notes": [
+        "无明显风险"
+      ]
+    },
+    {
+      "version_id": "pinduoduo_b016e1",
+      "predicted_ctr": 0.1711,
+      "predicted_cvr": 0.1028,
+      "confidence_score": 0.95,
+      "key_factors": [
+        "高复购率用户群",
+        "情感化文案更易转化",
+        "卖点丰富度佳",
+        "性价比敏感型用户"
+      ],
+      "risk_notes": [
+        "无明显风险"
+      ]
+    }
+  ],
+  "execution_result": {
+    "test_config": "ABTestConfig(test_id='AB_PROD001_20260501', product_id='PROD001', versions=['douyin_6ada0c', 'taobao_827da0', 'pinduoduo_b016e1'], traffic_split={'douyin_6ada0c': 0.33, 'taobao_827da0': 0.33, 'pinduoduo_b016e1': 0.33}, duration_days=2, primary_metric='conversion_rate', secondary_metrics=['click_through_rate', 'add_to_cart_rate', 'bounce_rate'])",
+    "sync_results": [
+      {
+        "version_id": "douyin_6ada0c",
+        "platform": "douyin",
+        "sync_status": "success",
+        "sync_time": "2026-05-01T12:11:22.764597"
+      },
+      {
+        "version_id": "taobao_827da0",
+        "platform": "taobao",
+        "sync_status": "success",
+        "sync_time": "2026-05-01T12:11:22.764597"
+      },
+      {
+        "version_id": "pinduoduo_b016e1",
+        "platform": "pinduoduo",
+        "sync_status": "success",
+        "sync_time": "2026-05-01T12:11:22.764597"
+      }
+    ],
+    "test_result": "ABTestResult(test_id='AB_PROD001_20260501', version_results={'douyin_6ada0c': {'impressions': 3300, 'clicks': 166, 'conversions': 6, 'ctr': 0.0503, 'cvr': 0.0361, 'add_to_cart_rate': 0.0267, 'bounce_rate': 0.2639}, 'taobao_827da0': {'impressions': 3300, 'clicks': 227, 'conversions': 5, 'ctr': 0.0688, 'cvr': 0.022, 'add_to_cart_rate': 0.0533, 'bounce_rate': 0.277}, 'pinduoduo_b016e1': {'impressions': 3300, 'clicks': 195, 'conversions': 6, 'ctr': 0.0591, 'cvr': 0.0308, 'add_to_cart_rate': 0.0424, 'bounce_rate': 0.3476}}, winner_version='douyin_6ada0c', statistical_significance=0.92, recommendation='推荐版本：douyin_6ada0c\\nCVR: 3.61%, CTR: 5.03%\\n\\n胜出版本显著优于其他版本，建议全量切换。')",
+    "executed_at": "2026-05-01T12:11:22.764597"
+  },
+  "summary": {
+    "channels_analyzed": 3,
+    "creatives_generated": 3,
+    "test_id": "AB_PROD001_20260501",
+    "winner_version": "douyin_6ada0c",
+    "winner_performance": {
+      "impressions": 3300,
+      "clicks": 166,
+      "conversions": 6,
+      "ctr": 0.0503,
+      "cvr": 0.0361,
+      "add_to_cart_rate": 0.0267,
+      "bounce_rate": 0.2639
+    },
+    "statistical_significance": 0.92,
+    "recommendation": "推荐版本：douyin_6ada0c\nCVR: 3.61%, CTR: 5.03%\n\n胜出版本显著优于其他版本，建议全量切换。"
+  }
+}
